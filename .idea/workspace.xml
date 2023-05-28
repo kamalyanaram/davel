@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0db435b4-4720-45d5-8fb0-f58f61a5f430" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Mizagene/views/site/userprofilesdetails.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mizagene/assets/AppAsset.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Mizagene/assets/AppAsset.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mizagene/controllers/SiteController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Mizagene/controllers/SiteController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mizagene/modules/views/layouts/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Mizagene/modules/views/layouts/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mizagene/views/site/userprofiles.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Mizagene/views/site/userprofiles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mizagene/web/images/icons/facial-recognition.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mizagene/web/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Mizagene/web/js/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/../Mizagene/composer.json" />
+      <option value="$USER_HOME$/PhpstormProjects/youmeetech/web/assets/fd57cdd4/composer.json" />
+      <option value="$PROJECT_DIR$/web/assets/35e35435/composer.json" />
+      <option value="$PROJECT_DIR$/../Mizagene/web/assets/888ad91c/composer.json" />
+      <option value="$PROJECT_DIR$/../Mizagene/web/assets/14757de8/composer.json" />
+      <option value="$USER_HOME$/PhpstormProjects/youmeetech/composer.json" />
+      <option value="$PROJECT_DIR$/../Mizagene/web/assets/153c60c1/composer.json" />
+      <option value="$USER_HOME$/PhpstormProjects/youmeetech/web/assets/da4ea203/composer.json" />
+    </option>
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Mizagene" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-bootstrap5" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-symfonymailer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/vendor/codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/vendor/codeception/lib-web" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-yii2" />
+      <path value="$PROJECT_DIR$/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/composer" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/npm-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/yiisoft/yii2-bootstrap4" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/yiisoft/yii2-bootstrap5" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/yiisoft/yii2-symfonymailer" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/codeception/specify" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/codeception/module-yii2" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/../Mizagene/vendor/sebastian/resource-operations" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/bower-asset/bootstrap" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/bower-asset/inputmask" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/bower-asset/jquery" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/bower-asset/punycode" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/bower-asset/yii2-pjax" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/masterminds/html5" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/yiisoft/yii2" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/yiisoft/yii2-bootstrap5" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/yiisoft/yii2-composer" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/yiisoft/yii2-debug" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/yiisoft/yii2-faker" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/yiisoft/yii2-gii" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/yiisoft/yii2-symfonymailer" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/psy/psysh" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/phpspec/php-diff" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/myclabs/deep-copy" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/doctrine/instantiator" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/doctrine/lexer" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/codeception/codeception" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/composer" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/paragonie/random_compat" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/fakerphp/faker" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/phpunit/php-code-coverage" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/browser-kit" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/phpunit/php-file-iterator" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/console" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/ezyang/htmlpurifier" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/egulias/email-validator" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/phpunit/php-invoker" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/css-selector" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/phpunit/php-text-template" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/deprecation-contracts" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/phpunit/php-timer" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/dom-crawler" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/phpunit/phpunit" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/event-dispatcher" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/behat/gherkin" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/finder" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/mailer" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/guzzlehttp/psr7" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/mime" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/polyfill-ctype" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/polyfill-intl-idn" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/polyfill-mbstring" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/polyfill-php72" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/ralouphie/getallheaders" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/service-contracts" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/string" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/var-dumper" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/symfony/yaml" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/cli-parser" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/recursion-context" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/psr/container" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/code-unit" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/object-enumerator" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/psr/event-dispatcher" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/object-reflector" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/psr/http-factory" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/comparator" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/lines-of-code" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/psr/http-message" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/type" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/complexity" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/psr/log" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/diff" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/version" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/environment" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/resource-operations" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/exporter" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/sebastian/global-state" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/cebe/markdown" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/phar-io/manifest" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/phar-io/version" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/codeception/module-yii2" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/codeception/lib-asserts" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/codeception/lib-web" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/codeception/lib-innerbrowser" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/codeception/module-filesystem" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/codeception/stub" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/codeception/verify" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/nikic/php-parser" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/codeception/module-asserts" />
+      <path value="$USER_HOME$/PhpstormProjects/youmeetech/vendor/theseer/tokenizer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2QH25aiajmL73BZl47rhYSQB6QP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Mizagene&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\davel" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="codeception.yml" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings scope="ConfigurationFile" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0db435b4-4720-45d5-8fb0-f58f61a5f430" name="Changes" comment="" />
+      <created>1684996003530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684996003530</updated>
+      <workItem from="1684996004699" duration="11000" />
+      <workItem from="1684996027248" duration="2121000" />
+      <workItem from="1685248385544" duration="2972000" />
+      <workItem from="1685265818801" duration="11532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
