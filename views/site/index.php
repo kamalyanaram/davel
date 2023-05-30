@@ -70,7 +70,7 @@ $this->title = 'Portfolio';
                 <div class="team section-bg container" data-aos="fade-up">
                     <div class="member" id="team" >
                         <div class="member-img">
-                            <img src="assets/img/avatar.jpg" class="img-fluid" alt="">
+                            <img src="img/avatar.jpg" class="img-fluid" alt="">
                             <div class="social">
                                 <a href="https://twitter.com/kamalyanaram"><i class="bi bi-twitter"></i></a>
                                 <a href="https://www.facebook.com/kamalyanaram"><i class="bi bi-facebook"></i></a>
@@ -262,27 +262,27 @@ $this->title = 'Portfolio';
         <div class="row">
 
             <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center" data-aos="zoom-in">
-                <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+                <img src="img/clients/client-1.png" class="img-fluid" alt="">
             </div>
 
             <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center" data-aos="zoom-in">
-                <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+                <img src="img/clients/client-2.png" class="img-fluid" alt="">
             </div>
 
             <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center" data-aos="zoom-in">
-                <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+                <img src="img/clients/client-3.png" class="img-fluid" alt="">
             </div>
 
             <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center" data-aos="zoom-in">
-                <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+                <img src="img/clients/client-4.png" class="img-fluid" alt="">
             </div>
 
             <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center" data-aos="zoom-in">
-                <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+                <img src="img/clients/client-5.png" class="img-fluid" alt="">
             </div>
 
             <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center" data-aos="zoom-in">
-                <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+                <img src="img/clients/client-6.png" class="img-fluid" alt="">
             </div>
 
         </div>
@@ -311,7 +311,7 @@ $this->title = 'Portfolio';
                             We are thrilled with the end result and would highly recommend Aram for any project.
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
-                        <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                         <h3>Robert Aydinyan</h3>
                         <h4>Ceo &amp; Founder of Bondify</h4>
                     </div>
@@ -324,7 +324,7 @@ $this->title = 'Portfolio';
                             Aram is an outstanding PHP developer. They understood our requirements perfectly and delivered a robust and efficient solution. Their professionalism, communication skills, and ability to meet tight deadlines were commendable. We look forward to collaborating with Aram on future projects.
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
-                        <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
                         <h3>Mark Zuckerberg</h3>
                         <h4>Facebook founder</h4>
                     </div>
@@ -337,7 +337,7 @@ $this->title = 'Portfolio';
                             I had the pleasure of working with Aram on a complex PHP project. Their technical expertise and problem-solving skills were impressive. They consistently went above and beyond to ensure the project's success. Aram's dedication, responsiveness, and commitment to delivering excellence are truly commendable.
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
-                        <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
                         <h3>Bill Gates</h3>
                         <h4>Microsoft owner</h4>
                     </div>
@@ -350,7 +350,7 @@ $this->title = 'Portfolio';
                             We hired Aram as our PHP developer for rockets, and we couldn't be happier with the results. Their strong understanding of PHP, along with their ability to implement scalable and secure solutions, exceeded our expectations. Aram consistently demonstrated professionalism, adaptability, and a solution-oriented mindset.
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
-                        <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
                         <h3>Elon Mask</h3>
                         <h4>Tesla & SpaceX founder</h4>
                     </div>
@@ -363,7 +363,7 @@ $this->title = 'Portfolio';
                             Exceptional PHP developer who consistently delivers top-notch work. Their attention to detail, clean code, and efficient problem-solving skills are outstanding. They are not only a skilled programmer but also a great communicator, ensuring that all project requirements were met. I would highly recommend Aram.
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
-                        <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                        <img src="img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
                         <h3>Mikael Kotanjyan</h3>
                         <h4>Founder & CEO of Bondify</h4>
                     </div>
@@ -406,12 +406,12 @@ $this->title = 'Portfolio';
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                    <img src="img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>App 1</h4>
                         <p>App</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                            <a href="img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
                             <a href="" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
@@ -420,12 +420,12 @@ $this->title = 'Portfolio';
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                    <img src="img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Web 3</h4>
                         <p>Web</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                            <a href="img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                             <a href="" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
@@ -434,12 +434,12 @@ $this->title = 'Portfolio';
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                    <img src="img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>App 2</h4>
                         <p>App</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                            <a href="img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
                             <a href="" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
@@ -448,12 +448,12 @@ $this->title = 'Portfolio';
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                    <img src="img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Card 2</h4>
                         <p>Card</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                            <a href="img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
                             <a href="" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
@@ -462,12 +462,12 @@ $this->title = 'Portfolio';
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                    <img src="img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Web 2</h4>
                         <p>Web</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                            <a href="img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
                             <a href="" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
@@ -476,12 +476,12 @@ $this->title = 'Portfolio';
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+                    <img src="img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>App 3</h4>
                         <p>App</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                            <a href="img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
                             <a href="" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
@@ -490,12 +490,12 @@ $this->title = 'Portfolio';
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                    <img src="img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Card 1</h4>
                         <p>Card</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                            <a href="img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
                             <a href="" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
@@ -504,12 +504,12 @@ $this->title = 'Portfolio';
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                    <img src="img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Card 3</h4>
                         <p>Card</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                            <a href="img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
                             <a href="" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
@@ -518,12 +518,12 @@ $this->title = 'Portfolio';
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                 <div class="portfolio-wrap">
-                    <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+                    <img src="img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Web 3</h4>
                         <p>Web</p>
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                            <a href="img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                             <a href="" title="More Details"><i class="bx bx-link"></i></a>
                         </div>
                     </div>
